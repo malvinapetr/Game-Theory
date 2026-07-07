@@ -1,5 +1,5 @@
 # Game-Theory
-Exercises regarding game theory for the corresponding course
+Collection of projects developed for the Game Theory course.
 
 **2D NIM GAME:**
 
